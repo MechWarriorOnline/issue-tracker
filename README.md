@@ -9,9 +9,10 @@
 
 
 
+
 ## How to Upvote an issue:
-* Select the Thumbs-Up option from the Reactions menu, [shown here](http://lauhakari.com/content/uploads/2016/03/github_reactions.png):
-![](http://lauhakari.com/content/uploads/2016/03/github_reactions.png)
+* Select the Thumbs-Up option from the Reactions menu, [shown here](http://lauhakari.com/content/uploads/2016/03/github_reactions.png).
+
 
 
 

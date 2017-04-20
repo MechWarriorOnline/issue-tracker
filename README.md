@@ -2,16 +2,19 @@
 
 # Unofficial Public Issue Tracker for the MWO Community
 
-## Given the limited reources of a company as small as PGI, the intended purposes of this issue tracker are:
-1. To serve as a crowd-sourced, objective, transparent means to record bugs as well as small-to-medium QoL (Quality of Life) suggestions in a central and organized way, distinct from the existing subreddits and forum.
+## Goals of this issue tracker
+Given the limited reources of a company as small as PGI, the intended purposes of this issue tracker are:
+1. To serve as a crowd-sourced, objective, transparent means to record bugs as well as very specific small-to-medium QoL (Quality of Life) suggestions in a central and organized way, distinct from the existing subreddits and forum.
 2. To indicate to PGI, via the number of issue-upvotes, how to prioritize bug fixes.
 3. To indicate to PGI, via the number of issue-upvotes, how to prioritize QoL suggestions.
   
   
-## What this is NOT:
+## What this issue tracker is NOT:
 * A place for salt
-* Balance issues
 * Bashing of any kind - be it against PGI, specific players, etc.
+* Balance issues, e.g. IS vs Clan
+* Pie-in-sky feature requests, e.g. "200-ton Mechs plz!"
+* Overly general issues, e.g. "MatchMaker is broken, plz fix. k thx bye"
   
 ## How to create a new issue:
 * Navigate to the Issues tab, near the top of this page (https://github.com/MechWarriorOnline/issue-tracker/issues).  

@@ -13,7 +13,7 @@ Given the limited reources of a company as small as PGI, the intended purposes o
 * A place for salt
 * Bashing of any kind - be it against PGI, specific players, etc.
 * Balance issues, e.g. IS vs Clan
-* Pie-in-sky feature requests, e.g. "200-ton Mechs plz!"
+* Pie-in-the-sky feature requests, e.g. "200-ton Mechs plz!"
 * Overly general issues, e.g. "MatchMaker is broken, plz fix. k thx bye"
   
 ## How to create a new issue:

@@ -4,7 +4,7 @@
 
 ## Goals of this issue tracker
 Given the limited reources of a company as small as PGI, the intended purposes of this issue tracker are:
-1. To serve as a crowd-sourced, objective, transparent means to record bugs as well as very specific small-to-medium QoL (Quality of Life) suggestions in a central and organized way, distinct from the existing subreddits and forum.
+1. To serve as a crowd-sourced, objective, transparent means to record bugs and very specific small-to-medium QoL (Quality of Life) suggestions in a central and organized way, distinct from the existing subreddits and forum which are geared towards large flashy features. (If enough users start contributing here, perhaps this rule might be relaxed in the future.)
 2. To indicate to PGI, via the number of issue-upvotes, how to prioritize bug fixes.
 3. To indicate to PGI, via the number of issue-upvotes, how to prioritize QoL suggestions.
   
@@ -17,6 +17,7 @@ Given the limited reources of a company as small as PGI, the intended purposes o
 * Overly general issues, e.g. "MatchMaker is broken, plz fix. k thx bye"
   
 ## How to create a new issue:
+* Log in to GitHub.
 * Navigate to the Issues tab, near the top of this page (https://github.com/MechWarriorOnline/issue-tracker/issues).  
 It looks like this: ![](https://help.github.com/assets/images/help/repository/repo-tabs-issues.png)
 * Search through the existing issues to make sure it hasn't already been reported. Seriously, do this!
@@ -26,6 +27,7 @@ It looks like this: ![](https://help.github.com/assets/images/help/repository/re
 * If reporting a QoL suggestion, explain the exact part of the User Interface that you are referring to, the difficulty invovled in using that part of the UI, and your specific suggestion to improve it.
   
 ## How to upvote an issue:
+* Log in to GitHub.
 * Navigate to the Issues section, [here](https://github.com/MechWarriorOnline/issue-tracker/issues): https://github.com/MechWarriorOnline/issue-tracker/issues
 * Locate and open the issue you would like to upvote.
 * Select the Thumbs-Up option from the Reactions menu, [as shown here](http://lauhakari.com/content/uploads/2016/03/github_reactions.png).

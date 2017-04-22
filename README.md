@@ -4,9 +4,12 @@
 
 ## Goals of this issue tracker
 Given the limited reources of a company as small as PGI, the intended purposes of this issue tracker are:
-1. To serve as a crowd-sourced, objective, transparent means to record bugs and very specific small-to-medium QoL (Quality of Life) suggestions in a central and organized way, distinct from the existing subreddits and forum which are geared towards large flashy features. (If enough users start contributing here, perhaps this rule might be relaxed in the future.)
-2. To indicate to PGI, via the number of issue-upvotes, how to prioritize bug fixes.
-3. To indicate to PGI, via the number of issue-upvotes, how to prioritize QoL suggestions.
+1. To serve as a crowd-sourced, objective, transparent means to record bugs and very specific small-to-medium QoL (Quality of Life) suggestions in a central and organized way, distinct from the existing subreddits and forum which are geared towards larger or flashier features. (If enough users start contributing here, perhaps this rule might be relaxed in the future.)
+2. By "Quality of Life" I mean one of two things:  
+   a. Small annoyances in the UI/UX (User Interface/User Experience) that annoy you every time you have to deal with it.  
+   b. Small changes that most users don't know they want, but upon seeing it might say, "Why was it not like this from the beginning??"
+3. To indicate to PGI, via the number of upvotes, how to prioritize bug fixes.
+4. To indicate to PGI, via the number of upvotes, how to prioritize QoL suggestions.
   
   
 ## What this issue tracker is NOT:

@@ -4,7 +4,7 @@
   
 ## Goals
 Given the limited reources of a company as small as PGI, the intended purposes of this issue tracker are:
-1. To serve as a public bug-tracker to record __*bugs of any size*__.
+1. To serve as a public, crowd-sourced, bug-tracker to record __*bugs of any size*__.
 2. To indicate to PGI, via the number of upvotes, the community's desire for how to prioritize bug fixes.
 3. To collect very specific __*small-to-medium QoL (Quality of Life) enhancements/features*__ in a central and organized way. This is intended to be distinct from the existing subreddits and forum which tend towards larger, flashier, or controversial features - and all of the complaining that goes with it.
     * By "Quality of Life" I mean one of two things:
@@ -17,12 +17,12 @@ Given the limited reources of a company as small as PGI, the intended purposes o
 ---
 
 ## Why (Part 1)?
-Given the limited reources (a.k.a. developer time) in a company as small as PGI, the company needs to prioritize developer tasks. Speaking as a software engineer myself, this is not a simple thing to do. Many factors come into play, including appeasement of the user-base. That particular problem is even more difficult when trying to cater to only the most vocal users  in Russ' Twitter stream, or in the (salt) forum, or on the subreddits ([/r/mwo](https://www.reddit.com/r/mwo/) and [/r/OutReachHPG](https://www.reddit.com/r/OutreachHPG/)) about large, difficult-to-address issues (e.g. Balance, P2W, etc.) that are always bound to make *someone* angry. This issue tracker is instead geared towards *un*controversial "low-hanging fruit" that can make a positive noticeable difference in the day-to-day experiences of nearly all players, yet be simple enough for PGI to implement quickly. In other words, the issues that should be listed here should give the most bang (i.e. player satisfaction) for the buck (i.e. dev resources). Hopefully PGI takes notice and tackles such issues.
+Given the limited reources (a.k.a. developer time) in a company as small as PGI, the company needs to prioritize developer tasks. Speaking as a software engineer myself, this is not a simple thing to do. Many factors come into play, including appeasement of the user-base. That particular problem is even more difficult when trying to cater to only the most vocal users  in Russ' Twitter stream, or in the (salt) forum, or on the subreddits ([/r/mwo](https://www.reddit.com/r/mwo/) and [/r/OutReachHPG](https://www.reddit.com/r/OutreachHPG/)) about large, difficult-to-address issues (e.g. Balance, P2W, etc.) that are always bound to make half of the player-base angry. This issue tracker is instead geared towards *un*controversial "low-hanging fruit" that can make a positive noticeable difference in the day-to-day experiences of nearly all players, yet be simple enough for PGI to implement quickly. In other words, the issues that should be listed here should give the most bang (i.e. player satisfaction) for the buck (i.e. dev resources). Hopefully PGI takes notice and tackles such issues.
 * For examples of this, see some of the QoL issues I created.
 ---
 
 ## Why (Part 2)?
-As a software engineer, I cringe when I see certain bugs that should never have made it past QA (Quality Assurance). Yes, I'm talking about the Dropship bugs(!), among others. I cringe again after patches, when I see that those bugs are *still* there. I believe that MWO is sending the wrong message to both new and veteran players alike by allowing bugs to remain in production. Why would we have faith in yet-to-be-released features if the *old* features still have bugs? It is my hope that using a public, organized, bug-tracking system that the MWO community can demonstrate to PGI that it needs to reexamine its priorities.
+As a software engineer, I cringe when I see certain bugs that should never have made it past QA (Quality Assurance). Yes, I'm talking about the Dropship bugs(!), among others. I cringe yet again after patches are released, when I see that those bugs are *still* there. I believe that MWO is sending the wrong message to both new and veteran players alike by allowing bugs to remain in production. Why would we have faith in yet-to-be-released features if the *old* features still have bugs? It is my hope that using a public, organized, bug-tracking system that the MWO community can demonstrate to PGI that it needs to reexamine its priorities.
 
 ---
   

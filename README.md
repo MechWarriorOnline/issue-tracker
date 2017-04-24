@@ -8,11 +8,11 @@ Given the limited reources of a company as small as PGI, the intended purposes o
 2. To indicate to PGI, via the number of upvotes, the community's desire for how to prioritize bug fixes.
 3. To collect very specific __*small-to-medium QoL (Quality of Life) enhancements/features*__ in a central and organized way. This is intended to be distinct from the existing subreddits and forum which tend towards larger, flashier, or controversial features - and all of the complaining that goes with it.
     * By "Quality of Life" I mean one of two things:
-      1. Small annoyances in the UI/UX (User Interface/User Experience) that annoy you every time you encounter it.  
-      2. Small potential changes that most users don't know they want, but upon seeing it might say, "How did I live without this?!"
+      1. Minor annoyances in the UI/UX (User Interface/User Experience) that annoy you every time you encounter it.  
+      2. Minor potential changes that most users don't know they want, but upon seeing it might say, "Ohhhh, that's so much better!" or "How did I live without this?!"
 
-      * A decent metric is: "Would this take PGI devs just a few days?"... as compared to, for example, the New Skill Tree which has been in the works for a very long time.  
-4. To indicate to PGI, via the number of upvotes, the community's desire for how to prioritize QoL enhancements/features.  
+    * A decent metric for "small-to-medium" is: "Would this take PGI devs just a few days (1 week max) to implement?"... as compared to, for example, the New Skill Tree which has been in the works for a very long time.
+4. To indicate to PGI, via the number of upvotes, the community's desire for how to prioritize enhancements and features.
 
 ---
 
@@ -22,14 +22,14 @@ Given the limited reources (a.k.a. developer time) in a company as small as PGI,
 ---
 
 ## Why (Part 2)?
-As a software engineer, I cringe when I see certain bugs that should never have made it past QA (Quality Assurance). Yes, I'm talking about the Dropship bugs(!), among others. I cringe yet again after patches are released, when I see that those bugs are *still* there. I believe that MWO is sending the wrong message to both new and veteran players alike by allowing bugs to remain in production. Why would we have faith in yet-to-be-released features if the *old* features still have bugs? It is my hope that using a public, organized, bug-tracking system that the MWO community can demonstrate to PGI that it needs to reexamine its priorities.
+As a software engineer, I cringe when I see certain bugs that should never have made it past QA (Quality Assurance). Yes, I'm talking about the Dropship bugs(!), among others. I then cringe yet again after patches are released, when I see that those bugs are *still* there. I believe that MWO is sending the wrong message to both new and veteran players alike by allowing non-obscure bugs to remain in production. Why would we have faith in yet-to-be-released features if the *old* features still have bugs? Why should potential-MWO-players take MWO seriously if it has so many glaring bugs? It is my hope that by using a public, organized, community-voted, bug-tracking system that the MWO community can help convince PGI that it needs to reexamine its priorities.
 
 ---
   
 ## What this issue tracker is NOT:
-* A place for salt
-* Bashing of any kind - be it against PGI, specific players, etc.
-* Balance issues, e.g. IS vs Clan
+* A place for salt.
+* Bashing of any kind - e.g. against PGI, against devs, and especially against specific players or units.
+* Balance issues, e.g. "Inner Sphere has been buffed to god-like status. Restore the balance, Russ!"
 * Pie-in-the-sky feature requests, e.g. "200-ton Mechs plz!"
 * Overly general issues, e.g. "MatchMaker is broken, plz fix. k thx bye"
   

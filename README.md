@@ -1,4 +1,4 @@
-# Unofficial Public Issue Tracker for the MWO Community
+# Unofficial Public Issue Tracker for the MechWarrior Online Community
   
 ---
   

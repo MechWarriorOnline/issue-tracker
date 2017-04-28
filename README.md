@@ -36,6 +36,16 @@ As a software engineer, I cringe when I see certain bugs that should never have 
 
 ---
   
+## How to upvote an issue:
+* Log into GitHub.
+    * Note: If you need to create an account first, I recommend using your in-game pilot name.
+* Navigate to the Issues section, [here](https://github.com/MechWarriorOnline/issue-tracker/issues): https://github.com/MechWarriorOnline/issue-tracker/issues
+* Locate and open the issue you would like to upvote.
+* Select the Thumbs-Up option from the Reactions menu, as shown here:  
+        ![](http://lauhakari.com/content/uploads/2016/03/github_reactions.png)
+
+---
+  
 ## How to create a new issue:
 * Log into GitHub.
     * Note: If you need to create an account first, I recommend using your in-game pilot name.
@@ -46,16 +56,6 @@ It looks like this: ![](https://help.github.com/assets/images/help/repository/re
 ![](https://help.github.com/assets/images/help/issues/new_issues_button.png).
 * If reporting a bug, include all the details that PGI devs might possibly need in order to reproduce your bug. If it can't be reproduced, it can't be fixed!
 * If reporting a QoL suggestion, explain the exact part of the User Interface that you are referring to, the difficulty involved in using that part of the UI, and your specific suggestion to improve it.
-  
----
-  
-## How to upvote an issue:
-* Log into GitHub.
-    * Note: If you need to create an account first, I recommend using your in-game pilot name.
-* Navigate to the Issues section, [here](https://github.com/MechWarriorOnline/issue-tracker/issues): https://github.com/MechWarriorOnline/issue-tracker/issues
-* Locate and open the issue you would like to upvote.
-* Select the Thumbs-Up option from the Reactions menu, as shown here:  
-        ![](http://lauhakari.com/content/uploads/2016/03/github_reactions.png)
   
 ---  
 ---  

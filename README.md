@@ -60,5 +60,10 @@ It looks like this: ![](https://help.github.com/assets/images/help/repository/re
 ---  
 ---  
 
+Announcement of this issue tracker on /r/OutreachHPG:  
+https://www.reddit.com/r/OutreachHPG/comments/67ya6m/unofficial_public_issue_tracker_for_mwo
+
+---
+---
 
 #### Disclaimer: Neither this issue tracker nor its maintainers are officially affiliated with PGI.

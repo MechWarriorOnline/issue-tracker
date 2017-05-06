@@ -16,7 +16,7 @@ Given the limited reources of a company as small as PGI, the intended purposes o
 
 ---
   
-## What this issue tracker is NOT:
+## Non-Goals... i.e. What this issue tracker is NOT:
 * A place for salt.
 * Balance issues, e.g. "Inner Sphere has been buffed to god-like status. Restore the balance, Russ!"
 * Pie-in-the-sky feature requests, e.g. "200-ton Mechs plz!"

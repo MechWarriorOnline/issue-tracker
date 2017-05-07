@@ -60,6 +60,20 @@ It looks like this: ![](https://help.github.com/assets/images/help/repository/re
 ---  
 ---  
 
+## How to know if it's appropriate to comment on an issue:
+* Only add a comment to an issue if:
+    * It is objectively relevant to the issue.
+        * Opinions are best expressed here by upvoting or downvoting, *not* through comments. Consider opening a parallel discussion in one of the subreddits ([/r/mwo](https://www.reddit.com/r/mwo/), [/r/OutReachHPG](https://www.reddit.com/r/OutreachHPG/)), or in the forum, which you can then link back the relevant issue here.
+    * In the case of bugs, it provides more information about finding or fixing the bug.
+    * In the case of enhancements/features:
+        * It adds better context to the nature of the issue.
+        * It helps refine the proposed change.
+        * It points out potential upsides/downsides.
+* Unhelpful comments like: "+1", "-1", "Yes!", "Nope", will be removed.
+  
+---  
+---  
+  
 Announcement of this issue tracker on /r/OutreachHPG:  
 https://www.reddit.com/r/OutreachHPG/comments/67ya6m/unofficial_public_issue_tracker_for_mwo
 

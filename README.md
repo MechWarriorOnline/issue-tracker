@@ -81,3 +81,18 @@ https://www.reddit.com/r/OutreachHPG/comments/67ya6m/unofficial_public_issue_tra
 ---
 
 #### Disclaimer: Neither this issue tracker nor its maintainers are officially affiliated with PGI.
+
+---
+---
+
+**Greetings fellow MechWarriors,**
+
+As a software engineer and a long time fan of MechWarrior, I decided to contribute to MWO in the most effective way I know how... maintaining a public, community-voted Issue Tracker right here on GitHub.
+
+I encourage you to look through the list of issues and upvote any that resonate with you.
+
+Cheers,  
+`    ` `tauSentry`
+
+---
+---

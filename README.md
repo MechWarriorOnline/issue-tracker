@@ -7,15 +7,17 @@
 * [How To Submit A New Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Submit-A-New-Issue)
 * [When To Add A Comment To An Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/When-To-Add-A-Comment-To-An-Issue)
 
+---
+
 * [Why Does This Issue Tracker Exist?](https://github.com/MechWarriorOnline/issue-tracker/wiki/Why)
-* [Goals And Non-Goals](https://github.com/MechWarriorOnline/issue-tracker/wiki/Goals)
+* [Goals And Non-Goals](https://github.com/MechWarriorOnline/issue-tracker/wiki/Goals-And-Non-Goals)
 
 ---
 ---
 
 **Greetings fellow MechWarriors,**
 
-As a software engineer and a long time fan of MechWarrior, I decided to contribute to MWO in the most effective way I know how... maintaining a public, community-voted Issue Tracker right here on GitHub. For a better answer, please see [Why Does This Issue Tracker Exist?](https://github.com/MechWarriorOnline/issue-tracker/wiki/Why) and [Goals And Non-Goals](https://github.com/MechWarriorOnline/issue-tracker/wiki/Goals).
+As a software engineer and a long time fan of MechWarrior, I decided to contribute to MWO in the most effective way I know how... maintaining a public, community-voted Issue Tracker right here on GitHub. For a more in-depth answer, please read [Why Does This Issue Tracker Exist?](https://github.com/MechWarriorOnline/issue-tracker/wiki/Why) and [Goals And Non-Goals](https://github.com/MechWarriorOnline/issue-tracker/wiki/Goals).
 
 I encourage you to look through the list of issues and upvote any that resonate with you.
 

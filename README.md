@@ -1,7 +1,6 @@
 # Unofficial Public Issue Tracker for MechWarrior Online
   
 ---
----
 
 * [How To Upvote An Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Upvote-An-Issue)
 * [How To Submit A New Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Submit-A-New-Issue)
@@ -12,7 +11,6 @@
 * [Why Does This Issue Tracker Exist?](https://github.com/MechWarriorOnline/issue-tracker/wiki/Why)
 * [Goals And Non-Goals](https://github.com/MechWarriorOnline/issue-tracker/wiki/Goals-And-Non-Goals)
 
----
 ---
 
 **Greetings fellow MechWarriors,**
@@ -28,7 +26,6 @@ Cheers,
 * [PanzerMagier's Reaction](https://www.reddit.com/r/OutreachHPG/comments/67ya6m/unofficial_public_issue_tracker_for_mwo/dgy4dc4/)
 * [Kanajashi's Reaction](https://www.reddit.com/r/OutreachHPG/comments/67ya6m/unofficial_public_issue_tracker_for_mwo/dgw0o5n/)
 
----
 ---
 
 ## Goals
@@ -52,7 +49,6 @@ Given the limited reources of a company as small as PGI, the intended purposes o
 * Overly general issues, e.g. "MatchMaker is broken, plz fix. k thx bye"
 * Bashing of any kind - e.g. against PGI devs, and especially against specific players or units.
   
----
 ---
   
 #### Disclaimer: Neither this issue tracker nor its maintainers are officially affiliated with PGI.

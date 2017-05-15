@@ -1,7 +1,33 @@
 # Unofficial Public Issue Tracker for MechWarrior Online
   
 ---
-  
+---
+
+* [Why Does This Issue Tracker Exist?](https://github.com/MechWarriorOnline/issue-tracker/wiki/Greetings)
+* [Goals And Non-Goals](https://github.com/MechWarriorOnline/issue-tracker/wiki/Goals)
+* [How To Upvote An Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Upvote-An-Issue)
+* [How To Submit A New Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Submit-A-New-Issue)
+* [When To Add A Comment To An Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/When-To-Add-A-Comment-To-An-Issue)
+
+---
+---
+
+**Greetings fellow MechWarriors,**
+
+As a software engineer and a long time fan of MechWarrior, I decided to contribute to MWO in the most effective way I know how... maintaining a public, community-voted Issue Tracker right here on GitHub.
+
+I encourage you to look through the list of issues and upvote any that resonate with you.
+
+Cheers,  
+`    ` `tauSentry`
+
+* [Original announcement on Reddit](https://www.reddit.com/r/OutreachHPG/comments/67ya6m/unofficial_public_issue_tracker_for_mwo)
+* [PanzerMagier's Reaction](https://www.reddit.com/r/OutreachHPG/comments/67ya6m/unofficial_public_issue_tracker_for_mwo/dgy4dc4/)
+* [Kanajashi's Reaction](https://www.reddit.com/r/OutreachHPG/comments/67ya6m/unofficial_public_issue_tracker_for_mwo/dgw0o5n/)
+
+---
+---
+
 ## Goals
 Given the limited reources of a company as small as PGI, the intended purposes of this issue tracker are:
 1. To serve as a public, crowd-sourced, bug-tracker to record __*bugs of any size*__.
@@ -26,18 +52,8 @@ Given the limited reources of a company as small as PGI, the intended purposes o
 ---
 ---
 
-**Greetings fellow MechWarriors,**
-
-As a software engineer and a long time fan of MechWarrior, I decided to contribute to MWO in the most effective way I know how... maintaining a public, community-voted Issue Tracker right here on GitHub.
-
-I encourage you to look through the list of issues and upvote any that resonate with you.
-
-Cheers,  
-`    ` `tauSentry`
-
-
 ## Why? (Part 1)
-Given the limited reources (a.k.a. developer time) in a company as small as PGI, the company needs to prioritize developer tasks. Speaking as a software engineer myself, this is not a simple thing to do. Many factors come into play, including appeasement of the user-base. That particular problem is even more difficult when trying to cater to only the most vocal users  in Russ' Twitter stream, or in the (salt) forum, or on the subreddits ([/r/mwo](https://www.reddit.com/r/mwo/) and [/r/OutReachHPG](https://www.reddit.com/r/OutreachHPG/)) about large, difficult-to-address issues (e.g. Balance, P2W, etc.) that are always bound to make half of the player-base angry. This issue tracker is instead geared towards *un*controversial "low-hanging fruit" that can make a positive and noticeable difference in the day-to-day experiences of nearly all players, yet be simple enough for PGI to implement quickly. In other words, the QoL issues that should be listed here should give the most bang (i.e. player satisfaction) for the buck (i.e. dev resources). PGI has an opportunity here to easily generate some much-needed goodwill in the player-base (i.e. us).
+Given the limited resources (a.k.a. developer time) in a company as small as PGI, the company needs to prioritize developer tasks. Speaking as a software engineer myself, this is not a simple thing to do. Many factors come into play, including appeasement of the user-base. That particular problem is even more difficult when trying to cater to only the most vocal users  in Russ' Twitter stream, or in the (salt) forum, or on the subreddits ([/r/mwo](https://www.reddit.com/r/mwo/) and [/r/OutReachHPG](https://www.reddit.com/r/OutreachHPG/)) about large, difficult-to-address issues (e.g. Balance, P2W, etc.) that are always bound to make half of the player-base angry. This issue tracker is instead geared towards *un*controversial "low-hanging fruit" that can make a positive and noticeable difference in the day-to-day experiences of nearly all players, yet be simple enough for PGI to implement quickly. In other words, the QoL issues that should be listed here should give the most bang (i.e. player satisfaction) for the buck (i.e. dev resources). PGI has an opportunity here to easily generate some much-needed goodwill in the player-base (i.e. us).
 * For examples of this, see some of the QoL issues I created.
 
 
@@ -46,52 +62,7 @@ As a software engineer, I cringe when I see certain bugs that should never have 
 
 ---
 ---
-
-# How to upvote an issue:
-1. Log into GitHub.
-    * Note: If you need to create an account first, I recommend using your in-game pilot name.
-2. Navigate to the Issues section, [here](https://github.com/MechWarriorOnline/issue-tracker/issues): https://github.com/MechWarriorOnline/issue-tracker/issues
-3. Locate and open the issue you would like to upvote.
-4. Select the Thumbs-Up option from the Reactions menu, as shown here:  
-        ![](http://lauhakari.com/content/uploads/2016/03/github_reactions.png)
-
----
----
-
-# How to create a new issue:
-1. Log into GitHub.
-    * Note: If you need to create an account first, I recommend using your in-game pilot name.
-2. Navigate to the Issues tab, near the top of this page (https://github.com/MechWarriorOnline/issue-tracker/issues).  
-It looks like this: ![](https://help.github.com/assets/images/help/repository/repo-tabs-issues.png)
-3. Search through the existing issues to make sure it hasn't already been reported. Seriously, do this!
-4. Click on the New Issue button, which looks like this:  
-![](https://help.github.com/assets/images/help/issues/new_issues_button.png).
-5. If reporting a bug, include all the details that PGI devs might possibly need in order to reproduce your bug. If it can't be reproduced, it can't be fixed!
-6. If reporting a QoL suggestion, explain the exact part of the User Interface that you are referring to, the difficulty involved in using that part of the UI, and your specific suggestion to improve it.
   
----  
----  
-
-# How to know if it's appropriate to comment on an issue:
-* Only add a comment to an issue if:
-    * It is objectively relevant to the issue.
-        * Opinions are best expressed here by upvoting or downvoting, *not* through comments. Consider opening a parallel discussion in one of the subreddits ([/r/mwo](https://www.reddit.com/r/mwo/), [/r/OutReachHPG](https://www.reddit.com/r/OutreachHPG/)), or in the forum, which you can then link back the relevant issue here.
-    * In the case of bugs, it provides more information about finding or fixing the bug.
-    * In the case of enhancements/features:
-        * It adds better context to the nature of the issue.
-        * It helps refine the proposed change.
-        * It points out potential upsides/downsides.
-* Unhelpful comments like: "+1", "-1", "Yes!", "Nope", will be removed.
-  
----  
----  
-  
-Announcement of this issue tracker on /r/OutreachHPG:  
-https://www.reddit.com/r/OutreachHPG/comments/67ya6m/unofficial_public_issue_tracker_for_mwo
-
----
----
-
 #### Disclaimer: Neither this issue tracker nor its maintainers are officially affiliated with PGI.
 
 ---

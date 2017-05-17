@@ -3,6 +3,7 @@
 ---
 
 * [How To Upvote An Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Upvote-An-Issue)
+* [How To Browse Issues](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Browse-Issues)
 * [How To Submit A New Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Submit-A-New-Issue)
 * [When To Add A Comment To An Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/When-To-Add-A-Comment-To-An-Issue)
 

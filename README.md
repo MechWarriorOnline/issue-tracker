@@ -1,4 +1,4 @@
-# Unofficial Public Issue Tracker for MechWarrior Online
+# Public Issue Tracker for MechWarrior Online
   
 ---
 

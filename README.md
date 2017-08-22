@@ -2,6 +2,10 @@
   
 ---
 
+* **[Issues That PGI Has Fixed :)](https://github.com/MechWarriorOnline/issue-tracker/issues?q=is%3Aissue+label%3A%22Status%3A+Fixed%22+is%3Aclosed+sort%3Aupdated-desc)**
+
+---
+
 * [How To Upvote An Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Upvote-An-Issue)
 * [How To Browse Issues](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Browse-Issues)
 * [How To Submit A New Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Submit-A-New-Issue)

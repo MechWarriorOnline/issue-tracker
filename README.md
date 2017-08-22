@@ -3,6 +3,8 @@
 ---
 
 * **[Issues That PGI Has Fixed :)](https://github.com/MechWarriorOnline/issue-tracker/issues?q=is%3Aissue+label%3A%22Status%3A+Fixed%22+is%3Aclosed+sort%3Aupdated-desc)**
+* [Why Does This Issue Tracker Exist?](https://github.com/MechWarriorOnline/issue-tracker/wiki/Why-This-Issue-Tracker-Exists)
+* [Goals And Non-Goals](https://github.com/MechWarriorOnline/issue-tracker/wiki/Goals-And-Non-Goals)
 
 ---
 
@@ -10,11 +12,9 @@
 * [How To Browse Issues](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Browse-Issues)
 * [How To Submit A New Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/How-To-Submit-A-New-Issue)
 * [When To Add A Comment To An Issue](https://github.com/MechWarriorOnline/issue-tracker/wiki/When-To-Add-A-Comment-To-An-Issue)
-
----
-
-* [Why Does This Issue Tracker Exist?](https://github.com/MechWarriorOnline/issue-tracker/wiki/Why-This-Issue-Tracker-Exists)
-* [Goals And Non-Goals](https://github.com/MechWarriorOnline/issue-tracker/wiki/Goals-And-Non-Goals)
+* Jump To: [Bug Reports](https://github.com/MechWarriorOnline/issue-tracker/issues?q=is%3Aopen+is%3Aissue+label%3A%22Type%3A+Bug%22+sort%3Acreated-asc)
+* Jump To: [Enhancement Requests](https://github.com/MechWarriorOnline/issue-tracker/issues?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc+label%3A%22Type%3A+Enhancement%22) (i.e. "Quality of Life")
+* Jump To: [Feature Requests](https://github.com/MechWarriorOnline/issue-tracker/issues?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc+label%3A%22Type%3A+Feature+Request%22)
 
 ---
 
